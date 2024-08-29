@@ -1,0 +1,6 @@
+[Pending] buy vegetables
+[Completed] buy pen
+[Pending] buy book
+[Pending] buy medicine
+[Pending] buy clothes
+[Pending] go to market
